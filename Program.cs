@@ -4,8 +4,8 @@
     {
         public static void Main(string[] args)
         {
-            FanOfGeometry el = new FanOfGeometry();
-            el.fanOfGeometry();
+            FanOfGeometry ctl = new FanOfGeometry();
+            ctl.fanOfGeometry();
         }
     }
 }
