@@ -10,6 +10,7 @@ namespace LineComparisionProblemUsingOOPS
     {
         public void fanOfGeometry()
         {
+
             Console.WriteLine("Enter the x1 co-ordinate");
             double x1 = Convert.ToDouble(Console.ReadLine());
 
